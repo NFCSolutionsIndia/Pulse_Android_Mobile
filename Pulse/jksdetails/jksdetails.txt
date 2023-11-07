@@ -1,0 +1,4 @@
+keyAlias     : Pulse
+keyPassword  : P@ssw0rd0
+D:\nfcsolutions\CTM\CTM_Technician\jksdetails
+storePassword 'P@ssw0rd0'

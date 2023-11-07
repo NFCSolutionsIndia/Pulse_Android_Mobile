@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Pulse</string>
+
+
+    <!--    Login screen    -->
+    <string name="login">नियम और शर्ते</string>
+    <string name="customer_care">नियम और शर्ते</string>
+    <string name="username">मोबाइल नंबर</string>
+    <string name="password">पासवर्ड</string>
+    <string name="strLogin_Empty_Number">मोबाइल नंबर खाली नहीं हो सकता</string>
+    <string name="strLogin_Invalid_Mobile">कृपया एक मान्य मोबाइल नंबर दर्ज करें</string>
+    <string name="strLogin_Invalid_Password">वैध पासवर्ड दर्ज करें</string>
+    <string name="strLogin_Empty_Password">पासवर्ड खाली नहीं हो सकता</string>
+
+
+    <!--         Dashboard     -->
+    <string name="navigation_drawer_open">नेविगेशन दराज खोलें</string>
+    <string name="navigation_drawer_close">नेविगेशन दराज बंद करें</string>
+    <string name="runtime_permissions_txt">कृपया ऐप सेटिंग से सभी अनुमतियां सक्षम करें।</string>
+    <string name="dashboard">पीएम डैशबोर्ड</string>
+    <string name="techdashboard">डैशबोर्ड</string>
+
+
+    <!--  Dialog text   -->
+    <string name="strAlertTitle">चेतावनी!</string>
+    <string name="strAlert_OK">ठीक है</string>
+    <string name="strAlert_Yes">हाँ</string>
+    <string name="strAlert_No">नहीं</string>
+    <string name="ok">ठीक है</string>
+    <string name="strAlertMessage_Exit">क्या आप निश्चित हैं आपकी बाहर निकलने की इच्छा है?</string>
+
+    <!--  Detail screen   -->
+    <string name="detailpageheader">विस्तृत पृष्ठ</string>
+    <string name="radiustext"> आप साइट के दायरे से 30 मीटर दूर हैं</string>
+
+    <string name="headtext">टावर चेकलिस्ट</string>
+    <string name="sitepm">साइट पीएम चेकलिस्ट</string>
+    <string name="checklisttext">टावर</string>
+    <string name="assettext">विस्तृत पृष्ठ</string>
+    <string name="planneddetailtext">नियोजित घटना विस्तृत पृष्ठ</string>
+    <string name="supassettext">चेकलिस्ट विस्तृत पृष्ठ</string>
+
+    <string name="reaontext">अलार्म का कारण</string>
+    <string name="correcivemeasure">सुधारात्मक उपाय</string>
+    <string name="btnsubmit">प्रस्तुत करना</string>
+    <string name="btnstart">शुरू</string>
+
+    <string name="usedmw">टावर पर प्रयुक्त मेगावाट माउंट की संख्या</string>
+    <string name="unusedmw">टावर पर अप्रयुक्त मेगावाट माउंट की संख्या</string>
+    <string name="usedrru">टावर पर प्रयुक्त आरआरयू माउंट की संख्या</string>
+    <string name="usedgsm">टावर पर प्रयुक्त जीएसएम/सीडीएमए माउंट की संख्या</string>
+    <string name="checknuts">चेक नट की शर्तें?</string>
+    <string name="upload">अपलोड</string>
+    <string name="uploadphoto">टावर फोटो अपलोड करें</string>
+
+
+    <!--  Success screen   -->
+
+    <string name="confirmation">पुष्टीकरण</string>
+    <string name="succestext">आपने टिकट सफलतापूर्वक \n जमा कर दिया है।</string>
+    <string name="succesplantext">टिकट सफलतापूर्वक बनाया गया।</string>
+    <string name="status">स्टेटस : </string>
+    <string name="ticketid">टिकट आईडी : </string>
+    <string name="textgoto">डैशबोर्ड पर जाएं</string>
+
+
+    <!-- Sites list     -->
+    <string name="sites">साइटों</string>
+    <string name="open">खुला हुआ</string>
+    <string name="sysgen"> सिस्टम जनरेटेड </string>
+    <string name="planned"> नियोजित कार्यक्रम  </string>
+    <string name="closed">बंद किया हुआ</string>
+    <string name="overdue">अतिदेय</string>
+    <string name="approval">लंबित</string>
+    <string name="wtapproval">अनुमोदन की प्रतीक्षा</string>
+
+
+    <!--    PM Activity History-->
+
+    <string name="pmhistory">पीएम गतिविधि इतिहास</string>
+
+    <!--  Language text   -->
+    <string name="language_title" translatable="false">Change language (or) भाषा चुनिए </string>
+
+
+    <!--  Messages text   -->
+    <string name="strErrorMessage">उफ़! आपके अनुरोध को संसाधित करने में कुछ समस्या है कृपया पुन: प्रयास करें।</string>
+    <string name="something">कुछ गलत हो गया, कृपया फिर से प्रयास करें</string>
+    <string name="settings">सेटिंग्स</string>
+
+    <string-array name="languages" translatable="false">
+        <item>English</item>
+        <item>हिंदी</item>
+<!--
+        <item>मराठी</item>
+-->
+    </string-array>
+
+    <!--     Sidemenu list items   -->
+    <string-array name="drawerItems">
+        <item>डैशबोर्ड</item>
+        <item>साइटों</item>
+        <item>पीएम गतिविधि इतिहास</item>
+        <item>सेटिंग्स</item>
+    </string-array>
+
+
+    <string-array name="drawerImages">
+        <item>डैशबोर्ड</item>
+        <item>टावर</item>
+        <item>पीएम इतिहास</item>
+        <item>सेटिंग्स</item>
+    </string-array>
+
+    <!--    Plannes Events-->
+
+    <string name="Planevents">नियोजित कार्यक्रम</string>
+
+    <!--     Sidemenu list items   -->
+    <string-array name="supdrawerItems">
+        <item>पीएम डैशबोर्ड</item>
+        <item>तकनीशियनों</item>
+        <!--
+                <item>PM Activity History</item>
+        -->
+        <item>नियोजित कार्यक्रम</item>
+
+        <!--     <item>Request for Replacement</item>-->
+        <item>सेटिंग्स</item>
+    </string-array>
+
+    <string-array name="supdrawerImages">
+        <item>डैशबोर्ड</item>
+        <!-- <item>schedule</item>-->
+        <item>तकनीशियनों</item>
+        <!--
+                <item>pmhistory</item>
+        -->
+
+        <!--  <item>replacement</item>-->
+        <item>अनुसूची</item>
+
+        <item>सेटिंग्स</item>
+    </string-array>
+
+
+    <!-- Technician list     -->
+    <string name="techies">तकनीशियनों</string>
+    <string name="techiesdsetails">तकनीशियन विवरण</string>
+    <string name="techiesname">नाम</string>
+    <string name="mobile">मोबाइल</string>
+    <string name="maindashboard">डैशबोर्ड</string>
+    <string name="tickethistory">टिकट इतिहास</string>
+
+
+    <string name="nogps">स्थान नहीं मिला। नेटवर्क/जीपीआरएस कनेक्शन में त्रुटि</string>
+    <string name="nointernet">कोई इंटरनेट कनेक्शन नहीं, कृपया अपना नेटवर्क कनेक्शन जांचें और पुनः प्रयास करें</string>
+
+
+</resources>
+

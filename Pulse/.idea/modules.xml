@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pulse.iml" filepath="$PROJECT_DIR$/.idea/modules/Pulse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pulse.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pulse.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pulse.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pulse.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pulse.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pulse.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pulse.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pulse.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weekcalendar/Pulse.weekcalendar.iml" filepath="$PROJECT_DIR$/.idea/modules/weekcalendar/Pulse.weekcalendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weekcalendar/Pulse.weekcalendar.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/weekcalendar/Pulse.weekcalendar.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weekcalendar/Pulse.weekcalendar.main.iml" filepath="$PROJECT_DIR$/.idea/modules/weekcalendar/Pulse.weekcalendar.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weekcalendar/Pulse.weekcalendar.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/weekcalendar/Pulse.weekcalendar.unitTest.iml" />
+    </modules>
+  </component>
+</project>
